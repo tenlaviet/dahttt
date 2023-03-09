@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 demo 2
 thuandz
 dat
 viet
 Thuan DZZZ
+=======
+demo 2 222 thuan dz
+>>>>>>> 82af67ae900b9a984cf230b3e89f9bef29c25ce9
