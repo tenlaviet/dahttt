@@ -4,6 +4,16 @@ thuandz
 dat
 viet
 Thuan DZZZ
+<<<<<<< HEAD
 =======
 demo 2 222 thuan dz
 >>>>>>> 82af67ae900b9a984cf230b3e89f9bef29c25ce9
+=======
+asd
+>>>>>>> 481053f11ca9b682fc5137029365405cd2f19015
+asdasdsa
+asdasdas
+thuandz
+namdan
+chjiencasd
+
